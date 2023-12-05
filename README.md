@@ -11,7 +11,7 @@
 `CTRL` + `\`<br>
 `CTRL` + `T`
 
-* **Mac OS**<br>
+* **MacOS**<br>
 `⌘` + `\`<br>
 `⌘` + `T`
 
